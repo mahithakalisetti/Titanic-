@@ -15,7 +15,7 @@ This project combines data cleaning, visualization, and data modeling (DAX in Po
 
 * Apply DAX measures for deeper insights and calculations.
 
-#🛠 **Tools & Technologies**
+# 🛠 **Tools & Technologies**
 
 * Jupyter Notebook / Python – For initial data exploration & preprocessing.
 
@@ -27,7 +27,7 @@ This project combines data cleaning, visualization, and data modeling (DAX in Po
 
 * DAX (Data Analysis Expressions) – Calculated measures for KPIs in Power BI.
 
-#📂 **Dataset Information**
+# 📂 **Dataset Information**
 
 The Titanic dataset contains passenger information with survival labels.
 
@@ -57,7 +57,7 @@ Key Columns:
 
 * Embarked – Port of Embarkation (C, Q, S)
 
-#📊 **Key Visualizations**
+# 📊 **Key Visualizations**
 
 * Some of the major visualizations used in this project include:
 
@@ -73,7 +73,7 @@ Key Columns:
 
 * Fare vs Survival – Higher fares correlated with better survival chances.
 
-#📐 **DAX Measures**
+# 📐 **DAX Measures**
 
 Below are some example DAX measures used:
 
@@ -116,7 +116,7 @@ DIVIDE(
     0
 )
 
-#✅ **Conclusion**
+# ✅ **Conclusion**
 
 * Gender was the most important factor – Women had much higher survival rates than men.
 
